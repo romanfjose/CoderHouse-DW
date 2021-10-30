@@ -1,4 +1,4 @@
-<script>
+
    //Fetch the price of Ethereum
    const eth_api_url = 'https://api.cryptonator.com/api/ticker/eth-usd';
    function ethereumHttpObject() {
@@ -161,4 +161,3 @@
       });
       fusioncharts.render();
    });
-</script>
